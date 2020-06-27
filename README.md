@@ -17,3 +17,4 @@ After the project has been imported, click "Files" then "Build Settings", then c
 Go to "Player Settings" and then configure the settings. Follow instructions on editing in order to publish to app stores, fill all your details including icons and so on.
 >>>>>>> 505088305ac336964c2444aa64f35480bb977fb0
 # Spinz
+# Spinz
