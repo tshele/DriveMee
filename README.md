@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Reed
-=======
+
 # DriveMee
 
 Getting Started
@@ -15,6 +13,3 @@ After the project has been imported, click "Files" then "Build Settings", then c
 "Switch Platform".  You can then run the project on your device either Android or iOS and see how the game looks like and play around with it. You can then continue with the steps to publish it.
 
 Go to "Player Settings" and then configure the settings. Follow instructions on editing in order to publish to app stores, fill all your details including icons and so on.
->>>>>>> 505088305ac336964c2444aa64f35480bb977fb0
-# Spinz
-# Spinz
